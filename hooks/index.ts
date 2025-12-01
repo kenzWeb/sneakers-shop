@@ -1,0 +1,1 @@
+export { useFilteredSneakers } from './useFilteredSneakers';
