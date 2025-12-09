@@ -1,0 +1,1 @@
+export { sneakers } from './sneakers';
