@@ -81,13 +81,3 @@ function SocialIcon({ href, icon }: { href: string; icon: string }) {
     </a>
   );
 }
-
-// updated logic 1766962559545
-// updated logic 1766962559767
-// updated logic 1766962559807
-// updated logic 1766962560339
-// updated logic 1766962560663
-// updated logic 1766962561399
-// updated logic 1766962561431
-// updated logic 1766962561723
-// updated logic 1766962562037

@@ -33,16 +33,3 @@ export function ProductDetails({ sneaker }: ProductDetailsProps) {
     </motion.div>
   );
 }
-
-// updated logic 1766962559614
-// updated logic 1766962559737
-// updated logic 1766962560782
-// updated logic 1766962560995
-// updated logic 1766962561025
-// updated logic 1766962561171
-// updated logic 1766962561338
-// updated logic 1766962561489
-// updated logic 1766962561574
-// updated logic 1766962561660
-// updated logic 1766962561843
-// updated logic 1766962562006

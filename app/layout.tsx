@@ -32,10 +32,3 @@ export default function RootLayout({
     </html>
   );
 }
-
-// updated logic 1766962559421
-// updated logic 1766962560296
-// updated logic 1766962560599
-// updated logic 1766962560930
-// updated logic 1766962561142
-// updated logic 1766962562149

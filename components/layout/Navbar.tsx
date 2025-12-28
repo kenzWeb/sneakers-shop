@@ -38,12 +38,3 @@ export function Navbar() {
     </motion.header>
   );
 }
-
-// updated logic 1766962560453
-// updated logic 1766962560571
-// updated logic 1766962560810
-// updated logic 1766962560958
-// updated logic 1766962561546
-// updated logic 1766962561630
-// updated logic 1766962562098
-// updated logic 1766962562228

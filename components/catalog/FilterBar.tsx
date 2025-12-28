@@ -49,9 +49,3 @@ export function FilterBar({ activeBrand, onBrandChange, sortBy, onSortChange }: 
     </BlurContainer>
   );
 }
-
-// updated logic 1766962559513
-// updated logic 1766962559867
-// updated logic 1766962560222
-// updated logic 1766962561052
-// updated logic 1766962561201

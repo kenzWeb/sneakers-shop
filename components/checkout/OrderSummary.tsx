@@ -52,15 +52,3 @@ function Row({ label, value, bold }: { label: string; value: string; bold?: bool
     </div>
   );
 }
-
-// updated logic 1766962559453
-// updated logic 1766962559584
-// updated logic 1766962559839
-// updated logic 1766962559900
-// updated logic 1766962560024
-// updated logic 1766962560051
-// updated logic 1766962560542
-// updated logic 1766962560630
-// updated logic 1766962560752
-// updated logic 1766962561306
-// updated logic 1766962561754
